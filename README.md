@@ -1,2 +1,2 @@
-# Resum-
-list of skills and experiance
+# Resume
+list of skills and experience
