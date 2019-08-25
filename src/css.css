@@ -13,10 +13,13 @@
   }
   .MainHeader p {
 	 position: relative;
-	 left: 27px;
+	 left: 37px;
   }
 .PersonalProfile {
 	
+}
+.PersonalProfile p {
+	font-size: 12px;
 }
 .contactinformation {
 	
@@ -26,10 +29,12 @@
 }
 
 .Skills {
+	text-align: right;
 	
 }
 
-.Skills {
+.WorkExperience {
+	text-align: right;
 	
 }
 
