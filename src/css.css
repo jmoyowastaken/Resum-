@@ -24,20 +24,28 @@
 .contactinformation {
 	
 }
-
+.contactinformation p {
+	font-size: 12px;
+}
 .Education {
 }
-
+.Education p {
+	font-size: 12px;
+}
 .Skills {
 	text-align: right;
 	
 }
-
+.Skills p {
+	font-size: 12px;
+}
 .WorkExperience {
 	text-align: right;
 	
 }
-
+.WorkExperience p {
+	font-size: 12px;
+}
 p {
 
 }
