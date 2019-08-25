@@ -8,6 +8,13 @@
 	padding-top: 25px;
   
   }
+  .MainHeader h1 {
+	  font-size: 40px;
+  }
+  .MainHeader p {
+	 position: relative;
+	 left: 27px;
+  }
 .PersonalProfile {
 	
 }
