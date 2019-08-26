@@ -6,6 +6,7 @@
 	height: 200px;
 	width 300px;
 	padding-top: 25px;
+	margin-bottom: 0px;
   
   }
   .MainHeader h1 {
@@ -17,36 +18,42 @@
   }
 .PersonalProfile {
 	background-color: Blue;
+	padding-left: 50px;
+	padding-top: 7px;
+	margin-top: 0px;
+	border-top: 10px
+	
 }
 .PersonalProfile p {
-	font-size: 12px;
+	font-size: 15px;
 }
 .contactinformation {
 	background-color: yellow;
 	
 }
 .contactinformation p {
-	font-size: 12px;
+	font-size: 15px;
 }
 .Education {
 	background-color:teal;
 }
 .Education p {
-	font-size: 12px;
+	font-size: 15px;
 }
 .Skills {
 	text-align: right;
-	
+	margin-left: 0px;
+	padding-right: 20px;
 }
 .Skills p {
-	font-size: 12px;
+	font-size: 15px;
 }
 .WorkExperience {
 	text-align: right;
 	
 }
 .WorkExperience p {
-	font-size: 12px;
+	font-size: 15px;
 }
 p {
 
