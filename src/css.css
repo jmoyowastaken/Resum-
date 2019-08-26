@@ -16,18 +16,20 @@
 	 left: 37px;
   }
 .PersonalProfile {
-	
+	background-color: Blue;
 }
 .PersonalProfile p {
 	font-size: 12px;
 }
 .contactinformation {
+	background-color: yellow;
 	
 }
 .contactinformation p {
 	font-size: 12px;
 }
 .Education {
+	background-color:teal;
 }
 .Education p {
 	font-size: 12px;
@@ -51,5 +53,8 @@ p {
 }
 body{
 	font-family: 'Basic', sans-serif;
+}
+.RightSide {
+	background-color: Gray;
 }
 
