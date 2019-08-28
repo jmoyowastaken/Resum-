@@ -44,6 +44,9 @@
 	text-align: right;
 	margin-left: 0px;
 	padding-right: 20px;
+	position: relative;
+	bottom: 165px;
+	
 }
 .Skills p {
 	font-size: 15px;
