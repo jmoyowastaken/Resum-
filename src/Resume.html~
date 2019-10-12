@@ -1,0 +1,47 @@
+<DOCTYPE HTML>
+<head>
+  <link href="css.css" type="text/css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Basic&display=swap" rel="stylesheet">
+  <title> Jovaan Moyo's Resume </title>
+ </head>
+<body>
+  <div class="MainHeader"> 
+    <h1> JOVAAN MOYO </h1>
+	<p> Computer Hardware and Software Engineer </p>
+  </div>
+    <br>
+	<br>
+  <div class="PersonalProfile">
+    <h3> P e r s o n a l<br>  P r o f i l e </h3>
+	<p> Very motivated computer hardware <br> and software engineer, who is dedicated to develop their skills further<br> Started building computers at 11<br> and started coding at 13.<br> I am completely confident<br>with my ability to construct computers and code websites</p>
+	</div>
+	<div class="RightSide">
+	 <div class="Skills">
+    <h3> Skills </h3>
+	  
+	    <p> Can build desktop computers using parts. </p>
+        <p>Good under deadlines and pressure </p>
+	    <p>Light experience in coding websites </p>  
+	 
+  </div>
+   <div class="WorkExperience"> 
+  <h3> Work Experience </h3>
+   <ul>
+   </ul>
+    </div>
+  </div>
+  <div class="contactinformation">
+    <h3> Contact </h3> 
+    <p>500 Merill Lane APT4, Dracut,Massachusetts,</p>
+    <p>jovaanmoyo@gmail.com</p>
+    <p> 508-840-4707 </p>	
+  </div>
+  <div class="Education">
+    <h3> Education </h3>
+	<p> Dracut Public Highschool (2023) </p>
+	<p> Codecademy HTML and CSS courses </p>
+  </div>
+ 
+  
+</body>
+ 
