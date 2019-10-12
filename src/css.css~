@@ -1,14 +1,11 @@
-body{
-	font-family: 'Basic', sans-serif;
-}
 
 .MainHeader {
 	color: white;
 	background-color: #262626;
 	text-align: center;
-	height: 150px;
+	height: 200px;
 	width 300px;
-	padding-top: 20px;
+	padding-top: 25px;
 	margin-bottom: 0px;
   
   }
@@ -19,67 +16,50 @@ body{
 	 position: relative;
 	 left: 37px;
   }
-
-.split {
-       height: 100%;
-       width: 50%;
-       position: fixed;
-}
-
-.LeftSide {
-	  left: 0;
-	  background: yellow;
-}
-
-.RightSide {
-	   background: blue;
-	   right: 0;
-}
 .PersonalProfile {
 	
 	padding-left: 50px;
 	padding-top: 7px;
 	margin-top: 0px;
-	border-top: 10px;
+	border-top: 10px
+	
 }
-
 .PersonalProfile p {
 	font-size: 15px;
 }
-
-.spacedLetters {
-	letter-spacing: 3px;
-}
-
 .contactinformation {
 	padding-left: 50px;
+	position: relative;
 	bottom:150px;
 	
 }
 .contactinformation p {
 	font-size: 15px;
 }
-
 .Education {
 	padding-left: 50px;
+	position:relative;
 	bottom: 100px;
 }
 .Education p {
 	font-size: 15px;
 }
 .Skills {
+	text-align: right;
 	margin-left: 0px;
-	padding-left: 50px;
+	padding-right: 20px;
+	position: relative;
 	bottom: 165px;
 }
 .Skills p {
 	font-size: 15px;
 }
 .Skills h3 {
-/*	padding-right: 250px; */
+	padding-right: 250px;
 }
 .WorkExperience {
-	padding-left: 50px;
+	text-align: right;
+	position: relative;
 	bottom: 150px;
 	
 }
@@ -89,5 +69,13 @@ body{
 .WorkExperience h3 {
 	padding-right: 175px;
 }
+p {
 
+}
+body{
+	font-family: 'Basic', sans-serif;
+}
+.RightSide {
+	
+}
 
